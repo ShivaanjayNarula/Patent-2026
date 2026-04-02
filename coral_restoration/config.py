@@ -1,6 +1,4 @@
 from dataclasses import dataclass
-
-
 @dataclass(frozen=True)
 class SystemConfig:
     confidence_threshold: float = 0.82
