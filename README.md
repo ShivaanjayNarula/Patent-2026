@@ -14,7 +14,7 @@ Implements event-based processing to handle high-dynamic-range underwater lighti
 Features the core logic for identifying optimal restoration sites and managing autonomous navigation. It bridges the gap between sensory input and mechanical action.
 
 ### Embedded Firmware
-Contains the C++ implementations for hardware abstraction and motor control. These modules are optimized for real-time performance on embedded systems to ensure precise underwater maneuverability.
+Contains the C implementations for hardware abstraction and motor control. These modules are optimized for real-time performance on embedded systems to ensure precise underwater maneuverability.
 
 ### Simulation Environment
 A custom sandbox designed to validate navigation and restoration algorithms in a controlled virtual environment before physical deployment.
@@ -24,13 +24,13 @@ A custom sandbox designed to validate navigation and restoration algorithms in a
 ├── src/
 │   ├── neuromorphic_vision/    # Event-based processing algorithms
 │   ├── decision_logic/         # AI/ML modules for site selection
-│   └── firmware/               # C++ code for hardware control
+│   └── firmware/               # C code for hardware control
 ├── simulation/                 # Virtual test environment and scripts
 ├── docs/                       # Technical diagrams and blueprints
 └── README.md
 ```
 ## 🛠 Technical Specifications
-* **Primary Language:** C++ (Core logic and firmware)
+* **Primary Language:** C (Core logic and firmware)
 * **Secondary Language:** Python (Simulation and data analysis)
 * **Architecture:** Modular, Event-Driven Neuromorphic System
 * **Domain:** Neuromorphic Engineering, Robotics, Marine Conservation, Embedded Systems.
@@ -38,7 +38,7 @@ A custom sandbox designed to validate navigation and restoration algorithms in a
 ## 🔧 Getting Started
 
 ### Prerequisites
-* C++ Compiler (GCC/Clang)
+* C Compiler (GCC/Clang)
 * Python 3.x
 * Build tools (Make/CMake)
 * Hardware abstraction libraries (as specified in `src/firmware/`)
