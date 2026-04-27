@@ -149,23 +149,23 @@ A custom sandbox designed to validate navigation and restoration algorithms in a
 └── README.md
 ```
 ## 🛠 Technical Specifications
-* **Primary Language:** C (Core logic and firmware)
-* **Secondary Language:** Python (Simulation and data analysis)
+* **Primary Language:** Python (Core, Simulation and data analysis)
+* **Secondary Language:** Python C (Firmware)
 * **Architecture:** Modular, Event-Driven Neuromorphic System
 * **Domain:** Neuromorphic Engineering, Robotics, Marine Conservation, Embedded Systems.
 
 ## 🔧 Getting Started
 
 ### Prerequisites
-* C Compiler (GCC/Clang)
 * Python 3.x
+* C Compiler (GCC/Clang)
 * Build tools (Make/CMake)
 * Hardware abstraction libraries (as specified in `src/firmware/`)
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ShivaanjayNarula/Patent-2026.git](https://github.com/ShivaanjayNarula/Patent-2026.git)
+   git clone [https://github.com/ShivaanjayNarula/Autonomous-Neuromorphic-Underwater-Coral-Restoration-System.git](https://github.com/ShivaanjayNarula/Patent-2026.git)
    cd Patent-2026
 2. Clone the repository:
    ```bash
@@ -176,11 +176,13 @@ A custom sandbox designed to validate navigation and restoration algorithms in a
 ## Academic & Legal Notice
 This project was prepared for a senior-year academic evaluation and patent submission. All rights to the unique neuromorphic architecture and specific restoration logic are reserved. Reproduction or use of the core algorithms without prior permission is prohibited.
 
-## Contributing
-As this is part of an ongoing patent process, external contributions are currently restricted. However, feedback and discussions on the technical blueprints are welcome via the Issues tab.
-
 ## Author
 [**Shivaanjay Narula**](https://github.com/ShivaanjayNarula)
+[**Subham Das**](https://github.com/Subhamstar)
+[**Shivansh Bhatia**](https://github.com/shiv9568)
+
+## Co-author
+[**Shikha Tuteja**](https://github.com/Shikha020985)
 
 ---
 *Developed for the 2026 Patent Evaluation and College Viva.*
