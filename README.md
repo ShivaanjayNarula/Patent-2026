@@ -178,7 +178,9 @@ This project was prepared for a senior-year academic evaluation and patent submi
 
 ## Author
 [**Shivaanjay Narula**](https://github.com/ShivaanjayNarula)
+
 [**Subham Das**](https://github.com/Subhamstar)
+
 [**Shivansh Bhatia**](https://github.com/shiv9568)
 
 ## Co-author
